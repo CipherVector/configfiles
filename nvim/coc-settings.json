@@ -1,0 +1,16 @@
+{
+  "suggest.noselect": false,
+  "clangd.enabled": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "cpp",
+    "h",
+    "javascript",
+    "typescript",
+    "typescriptreact",
+    "json",
+    "javascriptreact",
+    "typescript.tsx",
+    "graphql"
+  ],
+  "clangd.path": "/home/thin/.config/coc/extensions/coc-clangd-data/install/12.0.0/clangd_12.0.0/bin/clangd"
+}
